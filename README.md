@@ -1,4 +1,3 @@
-\
 # ☕ Coffee Bliss — Loyalty Membership App
 
 Aplikasi Android loyalty membership untuk pelanggan kedai kopi. Kumpulkan poin dari setiap transaksi pembelian, tukar dengan reward menarik, dan pantau riwayat aktivitasmu — semua dalam satu app.
