@@ -77,12 +77,7 @@ app/src/main/java/com/example/coffeebliss/
 
 ---
 
-## 📸 Screenshots
-
-_Coming soon_
-
----
 
 ## 📄 Lisensi
 
-Project ini dibuat untuk keperluan akademik EAS Pemrograman Mobile.
+Project ini dibuat untuk keperluan akademik EAS Pemorgraman Perangkat Bergerak.
